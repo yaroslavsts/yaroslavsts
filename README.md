@@ -1,10 +1,17 @@
 <h1 align="center">Yaroslav Stsefanovich</h1>
 
 <p align="center">
-  DevOps Engineer with 6+ years of experience in AWS, Kubernetes, Terraform, Linux systems, automation, secure infrastructure, backups, API connectivity, and failover strategy.
+  iOS Developer | Mobile App Engineer
 </p>
 
 <p align="center">
+  Minsk, Belarus · Open to Junior iOS Developer roles · Remote / Hybrid
+</p>
+
+<p align="center">
+  <a href="https://t.me/yaroslav_sts">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@yaroslav__sts-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
   <a href="mailto:yaroslavsts23@icloud.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-yaroslavsts23%40icloud.com-0A66C2?style=for-the-badge&logo=icloud&logoColor=white">
   </a>
@@ -20,46 +27,52 @@
 
 ## About
 
-I build and maintain production infrastructure with a focus on reliability, security, and repeatable automation. My work covers cloud architecture, Kubernetes workloads, Terraform-managed infrastructure, network rules, secure data transfer, backups, API communication, and failover planning.
+I am an iOS Developer focused on building clean, beautiful, and performant mobile applications with Swift and SwiftUI.
 
-I have experience in DevOps work connected with The New York Times and a technical foundation from IT STEP Academy, where I studied system administration, Linux, cloud system design, Python, C#, and PC hardware.
+I work with modern iOS development practices including async/await, Combine, MVVM architecture, REST API integration, XCTest, Fastlane, and clean code. I recently completed several full-stack mobile projects as part of my portfolio and I am looking for a Junior iOS Developer role where I can contribute to real products and keep growing as an engineer.
 
-## Core Skills
+## Tech Stack
 
-| Area | Technologies and Practices |
+| Area | Tools and Skills |
 | --- | --- |
-| Cloud and Platforms | AWS, Kubernetes, Linux |
-| Infrastructure as Code | Terraform, reusable infrastructure, version-controlled configuration |
-| Reliability | Backups, failover strategy, secure data transfer, API connectivity |
-| Automation and Delivery | CI/CD, GitHub Actions, infrastructure automation |
-| Programming and Scripting | Python, Bash, C# |
-| AI and Developer Tools | Claude Code, prompt engineering, AI-assisted development workflows |
+| iOS | Swift, SwiftUI, UIKit basics, iOS SDK |
+| Architecture | MVVM, clean code, modular app structure |
+| Async and Data Flow | async/await, Combine |
+| Networking | REST APIs, API integration, JSON, URLSession |
+| Quality | XCTest, debugging, code review habits |
+| Delivery | Git, GitHub, Fastlane |
+| Fundamentals | C, software development, programming engineering |
 
-## Certifications
+## Top Skills
 
-- AWS Certified Solutions Architect - Associate, Amazon Web Services, issued Apr 2024, valid through Apr 2027
-- CKAD: Certified Kubernetes Application Developer, The Linux Foundation, issued Apr 2024, valid through Apr 2027
-- Claude Code in Action, Anthropic, issued Mar 2026
-- Practical Prompt Engineering, Frontend Masters, issued Jan 2026
+- Software Development
+- iOS Application Development
+- iOS
+- Swift
+- SwiftUI
+- API Integration
 
 ## Education
 
-**IT STEP Academy**  
-2015 - 2018
+**Belarusian State University of Informatics and Radioelectronics**  
+Bachelor of Engineering, Programming Engineering  
+Sep 2024 - Aug 2028
 
-- Studied system administration, PC hardware building, Python, and C#
-- Built Linux system administration skills
-- Learned cloud system design
-- Presented technical projects to audiences of 300+ visitors
-- Served as team lead on key projects
+## Portfolio Focus
+
+- Native iOS applications built with Swift and SwiftUI
+- REST API integration and mobile client architecture
+- Async data loading with async/await and Combine
+- MVVM-based screen and state management
+- XCTest coverage for critical app logic
+- Fastlane-based mobile delivery workflows
 
 ## Languages
 
-- English - native or bilingual proficiency
-- Ukrainian - native or bilingual proficiency
-- Russian - native or bilingual proficiency
+- Belarusian - native or bilingual proficiency
+- English - limited working proficiency
 
-## GitHub
+## GitHub Stats
 
 <p align="center">
   <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yaroslavsts&show_icons=true&hide_border=true&theme=transparent">
@@ -68,6 +81,7 @@ I have experience in DevOps work connected with The New York Times and a technic
 
 ## Contact
 
+- Telegram: [@yaroslav_sts](https://t.me/yaroslav_sts)
 - Email: [yaroslavsts23@icloud.com](mailto:yaroslavsts23@icloud.com)
 - LinkedIn: [linkedin.com/in/yaroslav-stsefanovich-943698383](https://www.linkedin.com/in/yaroslav-stsefanovich-943698383/)
 - GitHub: [github.com/yaroslavsts](https://github.com/yaroslavsts)
