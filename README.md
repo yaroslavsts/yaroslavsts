@@ -69,8 +69,9 @@ Sep 2024 - Aug 2028
 
 ## Languages
 
-- Belarusian - native or bilingual proficiency
+- Russian - native or bilingual proficiency
 - English - limited working proficiency
+- Belarusian - native or bilingual proficiency
 
 ## GitHub Stats
 
