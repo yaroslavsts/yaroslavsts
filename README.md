@@ -73,13 +73,6 @@ Sep 2024 - Aug 2028
 - English - limited working proficiency
 - Belarusian - native or bilingual proficiency
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yaroslavsts&show_icons=true&hide_border=true&theme=transparent">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaroslavsts&layout=compact&hide_border=true&theme=transparent">
-</p>
-
 ## Contact
 
 - Telegram: [@yaroslav_sts](https://t.me/yaroslav_sts)
