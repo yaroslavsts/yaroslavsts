@@ -27,9 +27,7 @@
 
 ## About
 
-I am an iOS Developer focused on building clean, beautiful, and performant mobile applications with Swift and SwiftUI.
-
-I work with modern iOS development practices including async/await, Combine, MVVM architecture, REST API integration, XCTest, Fastlane, and clean code. I recently completed several full-stack mobile projects as part of my portfolio and I am looking for a Junior iOS Developer role where I can contribute to real products and keep growing as an engineer.
+I build native iOS applications with a focus on clean UI, performance, and maintainable architecture. I am looking for a Junior iOS Developer role where I can contribute to real products and continue growing in a professional team.
 
 ## Tech Stack
 
@@ -43,39 +41,14 @@ I work with modern iOS development practices including async/await, Combine, MVV
 | Delivery | Git, GitHub, Fastlane |
 | Fundamentals | C, software development, programming engineering |
 
-## Top Skills
-
-- Software Development
-- iOS Application Development
-- iOS
-- Swift
-- SwiftUI
-- API Integration
-
 ## Education
 
 **Belarusian State University of Informatics and Radioelectronics**  
 Bachelor of Engineering, Programming Engineering  
 Sep 2024 - Aug 2028
 
-## Portfolio Focus
-
-- Native iOS applications built with Swift and SwiftUI
-- REST API integration and mobile client architecture
-- Async data loading with async/await and Combine
-- MVVM-based screen and state management
-- XCTest coverage for critical app logic
-- Fastlane-based mobile delivery workflows
-
 ## Languages
 
 - Russian - native or bilingual proficiency
 - English - limited working proficiency
 - Belarusian - native or bilingual proficiency
-
-## Contact
-
-- Telegram: [@yaroslav_sts](https://t.me/yaroslav_sts)
-- Email: [yaroslavsts23@icloud.com](mailto:yaroslavsts23@icloud.com)
-- LinkedIn: [linkedin.com/in/yaroslav-stsefanovich-943698383](https://www.linkedin.com/in/yaroslav-stsefanovich-943698383/)
-- GitHub: [github.com/yaroslavsts](https://github.com/yaroslavsts)
