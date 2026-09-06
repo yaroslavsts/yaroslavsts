@@ -12,8 +12,8 @@
   <a href="https://t.me/yaroslav_sts">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@yaroslav__sts-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="mailto:yaroslavsts23@icloud.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-yaroslavsts23%40icloud.com-0A66C2?style=for-the-badge&logo=icloud&logoColor=white">
+  <a href="mailto:yaroslavsts23@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-yaroslavsts23%40gmail.com-0A66C2?style=for-the-badge&logo=icloud&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/yaroslav-stsefanovich-943698383/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yaroslav%20Stsefanovich-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -27,6 +27,10 @@
 
 ## About
 
+I am an iOS developer with 2+ years of commercial experience, working as a freelance developer since May 2024, and a third-year Software Engineering student at BSUIR.
+
+I have developed and uploaded more than 50 apps to the App Store across personal finance, travel planning, maps, media catalogs, video playback, photo and video editing, and other categories. Working from technical specifications and design mockups, I was responsible for application-specific interfaces, business logic, API integrations, local persistence, and release preparation on top of an existing team template. I also developed backend APIs and integrated AI chat and other AI-powered features.
+
 I build native iOS applications with a focus on clean UI, performance, and maintainable architecture. I am looking for a Junior iOS Developer role where I can contribute to real products and continue growing in a professional team.
 
 ## Tech Stack
@@ -34,18 +38,29 @@ I build native iOS applications with a focus on clean UI, performance, and maint
 | Area | Tools and Skills |
 | --- | --- |
 | iOS | Swift, SwiftUI, UIKit basics, iOS SDK |
-| Architecture | MVVM, clean code, modular app structure |
-| Async and Data Flow | async/await, Combine |
-| Networking | REST APIs, API integration, JSON, URLSession |
-| Quality | XCTest, debugging, code review habits |
+| Architecture | MVVM, clean code, modular app structure, dependency injection |
+| Async and Data Flow | async/await, Combine, Task, actors, MainActor |
+| Networking | REST APIs, API integration, JSON, URLSession, Codable |
+| Quality | XCTest, unit and UI tests, debugging; developing code review skills |
 | Delivery | Git, GitHub, Fastlane |
 | Fundamentals | C, software development, programming engineering |
+| Persistence | Core Data, SwiftData, UserDefaults, file storage |
+| Maps and location | MapKit, Core Location |
+| Media | AVFoundation, AVKit, Core Image, PhotosUI |
+| Platform features | UserNotifications, WidgetKit, App Intents |
+| Backend | JavaScript, Node.js, HTTP APIs |
+| Additional tools | Xcode, Figma, Codemagic |
+| AI tools | ChatGPT, Codex |
 
 ## Education
 
 **Belarusian State University of Informatics and Radioelectronics**  
 Bachelor of Engineering, Programming Engineering  
-Sep 2024 - Aug 2028
+Sep 2024 - Aug 2028  
+Faculty of Computer Systems and Networks · Third year
+
+**T-Education · 2026**  
+iOS for Beginners
 
 ## Languages
 
