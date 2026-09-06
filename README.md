@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Minsk, Belarus · Open to Junior iOS Developer roles · Remote / Hybrid / On-site
+  Minsk, Belarus · Open to Junior iOS Developer roles · On-site / Hybrid / Remote
 </p>
 
 <p align="center">
