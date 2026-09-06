@@ -13,7 +13,7 @@
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@yaroslav__sts-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a href="mailto:yaroslavsts23@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-yaroslavsts23%40gmail.com-0A66C2?style=for-the-badge&logo=icloud&logoColor=white">
+    <img alt="Email" src="https://img.shields.io/badge/Email-yaroslavsts23%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/yaroslav-stsefanovich-943698383/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yaroslav%20Stsefanovich-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -29,7 +29,7 @@
 
 I am an iOS developer with 2+ years of commercial experience, working as a freelance developer since May 2024, and a third-year Software Engineering student at BSUIR.
 
-I have developed and uploaded more than 50 apps to the App Store across personal finance, travel planning, maps, media catalogs, video playback, photo and video editing, and other categories. Working from technical specifications and design mockups, I was responsible for application-specific interfaces, business logic, API integrations, local persistence, and release preparation on top of an existing team template. I also developed backend APIs and integrated AI chat and other AI-powered features.
+I have developed and uploaded 50+ apps to the App Store across personal finance, travel planning, maps, media catalogs, video playback, photo and video editing, and other categories. Working from technical specifications and design mockups, I was responsible for interfaces, business logic, API integrations, local persistence, and release preparation. I also developed backend APIs and integrated AI chat and other AI-powered features.
 
 I build native iOS applications with a focus on clean UI, performance, and maintainable architecture. I am looking for a Junior iOS Developer role where I can contribute to real products and continue growing in a professional team.
 
