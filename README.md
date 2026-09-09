@@ -1,4 +1,4 @@
-<h1 align="center">Yaroslav Stsefanovich</h1>
+<h1 align="center">Yaraslau Stsefanovich</h1>
 
 <p align="center">
   iOS Developer | Mobile App Engineer
@@ -16,7 +16,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-yaroslavsts23%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/yaroslav-stsefanovich-943698383/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yaroslav%20Stsefanovich-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yaraslau%20Stsefanovich-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/yaroslavsts">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-yaroslavsts-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -65,7 +65,7 @@ iOS for Beginners
 ## Certifications
 
 **[Developing iOS apps with Swift Specialization](https://www.coursera.org/account/accomplishments/specialization/MXGSM940XQJZ)**  
-SkillUp • IBM / Coursera · Completed September 2026
+IBM / SkillUp · Coursera · 2026
 
 The specialization includes three completed courses:
 
