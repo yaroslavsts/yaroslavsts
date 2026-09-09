@@ -15,7 +15,7 @@
   <a href="mailto:yaroslavsts23@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-yaroslavsts23%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/yaroslav-stsefanovich-943698383/">
+  <a href="https://www.linkedin.com/in/yaraslau-stsefanovich-943698383/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yaraslau%20Stsefanovich-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/yaroslavsts">
@@ -72,6 +72,25 @@ The specialization includes three completed courses:
 - [Get Started with iOS App Development](https://www.coursera.org/account/accomplishments/verify/N4IERM5R8AA9) — SkillUp
 - [Creating iOS Apps Using Swift](https://www.coursera.org/account/accomplishments/verify/8KX4ATQKGOSI) — IBM
 - [iOS Development Capstone Project](https://www.coursera.org/account/accomplishments/verify/L0CFPZJUKXEJ) — SkillUp
+
+
+### Certificate gallery
+
+<a href="https://www.coursera.org/account/accomplishments/specialization/MXGSM940XQJZ"><img src="https://coursera-certificate-images.s3.amazonaws.com/MXGSM940XQJZ" width="480" alt="Developing iOS apps with Swift — certificate" /></a>
+
+<a href="https://www.coursera.org/account/accomplishments/verify/N4IERM5R8AA9"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~N4IERM5R8AA9/CERTIFICATE_LANDING_PAGE~N4IERM5R8AA9.jpeg" width="320" alt="Get Started with iOS App Development — certificate" /></a>
+<a href="https://www.coursera.org/account/accomplishments/verify/8KX4ATQKGOSI"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~8KX4ATQKGOSI/CERTIFICATE_LANDING_PAGE~8KX4ATQKGOSI.jpeg" width="320" alt="Creating iOS Apps Using Swift — certificate" /></a>
+<a href="https://www.coursera.org/account/accomplishments/verify/L0CFPZJUKXEJ"><img src="https://coursera-certificate-images.s3.amazonaws.com/L0CFPZJUKXEJ" width="320" alt="iOS Development Capstone Project — certificate" /></a>
+
+### Topics covered in coursework
+
+- **SwiftUI:** navigation, lists and grids, forms, reusable views, ViewModifier, @ViewBuilder, @State, @Binding, @Observable and @Bindable, animations and matchedGeometryEffect.
+- **Architecture and data:** MVVM, SwiftData models and relationships, @Query and #Predicate, persistence and filtering.
+- **Networking and concurrency:** async/await, async let, URLSession, REST APIs, Codable, JSON decoding, generic fetch functions, loading and error states.
+- **Maps and visualization:** MapKit, Core Location, Swift Charts, LineMark and AreaMark.
+- **Accessible and localized interfaces:** VoiceOver, accessibility labels, Dynamic Type, @ScaledMetric, locale-aware number and date formatting.
+- **On-device AI:** Apple Foundation Models, LanguageModelSession, @Generable and @Guide, generated tips and summaries, and fallback behavior on unsupported devices.
+- **Product development:** user stories, wireframes, and coursework projects including Recipe App, Local Events Explorer, and Smart Travel Journal.
 
 ## Languages
 
