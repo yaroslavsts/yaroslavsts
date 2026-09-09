@@ -74,14 +74,6 @@ The specialization includes three completed courses:
 - [iOS Development Capstone Project](https://www.coursera.org/account/accomplishments/verify/L0CFPZJUKXEJ) — SkillUp
 
 
-### Certificate gallery
-
-<a href="https://www.coursera.org/account/accomplishments/specialization/MXGSM940XQJZ"><img src="https://coursera-certificate-images.s3.amazonaws.com/MXGSM940XQJZ" width="480" alt="Developing iOS apps with Swift — certificate" /></a>
-
-<a href="https://www.coursera.org/account/accomplishments/verify/N4IERM5R8AA9"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~N4IERM5R8AA9/CERTIFICATE_LANDING_PAGE~N4IERM5R8AA9.jpeg" width="320" alt="Get Started with iOS App Development — certificate" /></a>
-<a href="https://www.coursera.org/account/accomplishments/verify/8KX4ATQKGOSI"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~8KX4ATQKGOSI/CERTIFICATE_LANDING_PAGE~8KX4ATQKGOSI.jpeg" width="320" alt="Creating iOS Apps Using Swift — certificate" /></a>
-<a href="https://www.coursera.org/account/accomplishments/verify/L0CFPZJUKXEJ"><img src="https://coursera-certificate-images.s3.amazonaws.com/L0CFPZJUKXEJ" width="320" alt="iOS Development Capstone Project — certificate" /></a>
-
 ### Topics covered in coursework
 
 - **SwiftUI:** navigation, lists and grids, forms, reusable views, ViewModifier, @ViewBuilder, @State, @Binding, @Observable and @Bindable, animations and matchedGeometryEffect.
