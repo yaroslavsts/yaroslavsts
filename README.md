@@ -62,6 +62,17 @@ Faculty of Computer Systems and Networks · Third year
 **T-Education · 2026**  
 iOS for Beginners
 
+## Certifications
+
+**[Developing iOS apps with Swift Specialization](https://www.coursera.org/account/accomplishments/specialization/MXGSM940XQJZ)**  
+SkillUp • IBM / Coursera · Completed September 2026
+
+The specialization includes three completed courses:
+
+- [Get Started with iOS App Development](https://www.coursera.org/account/accomplishments/verify/N4IERM5R8AA9) — SkillUp
+- [Creating iOS Apps Using Swift](https://www.coursera.org/account/accomplishments/verify/8KX4ATQKGOSI) — IBM
+- [iOS Development Capstone Project](https://www.coursera.org/account/accomplishments/verify/L0CFPZJUKXEJ) — SkillUp
+
 ## Languages
 
 - Russian - native or bilingual proficiency
